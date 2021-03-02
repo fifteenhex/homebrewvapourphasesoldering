@@ -1,5 +1,11 @@
 # homebrew vapour phase soldering
 
+## Wha?
+
+I saw this on Macro Reps channel [here](https://www.youtube.com/watch?v=D28uSzCs7-k&t=619s). This looks a ton easier than hacking some janky toaster over setup together (tried it, heat ramp up is too slow, pid controller can't handle it..) and less likely to leave slightly browned boards than using a hot plate directly.
+
+It's worth a go right?
+
 ## Materials
 
 - PFPE
