@@ -4,7 +4,7 @@
 
 - PFPE
 
-  This stuff is like rocking house poop.. but apparently if you are in Germany there are multiple sources
+  This stuff is like rocking horse poop.. but apparently if you are in Germany there are multiple sources
   that will sell you a smaller amount than a $1000 jug.
   
   - Galden LS230 
